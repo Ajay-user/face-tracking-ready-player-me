@@ -201,6 +201,7 @@ video {
 @media only screen and (max-width: 500px) {
   main {
     width: 100dvw;
+
   }
 
   input {
@@ -209,6 +210,7 @@ video {
 
   video {
     width: 100dvw;
+    height: 40dvh;
   }
 
 
