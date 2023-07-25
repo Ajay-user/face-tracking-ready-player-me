@@ -1,3 +1,8 @@
+I created this project inspired by the work of Sercan Altundas. Full credits goes to Sercan
+
+- [repo](https://github.com/srcnalt/rpm-face-tracking/tree/master)
+- [Youtube](https://youtu.be/GPam8KU3ldw)
+
 ## MediaPipe
 
 Create innovative on-device ML solutions, easily with Mediapipe
