@@ -42,7 +42,7 @@ function Avatar({ avatarUrl }) {
 
 function App() {
   const [url, setUrl] = useState(
-    "https://models.readyplayer.me/6460d95f9ae10f45bffb2864.glb"
+    "https://models.readyplayer.me/64c0b0250a4ad5e1bbb774b5.glb"
   );
 
   const onChangeHandler = (event) => {
